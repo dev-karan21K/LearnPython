@@ -1,0 +1,22 @@
+python programming
+    python is a high-level programming language - designed to be easy to read and write.
+    python was createdm in 1991, by a dutch programmer - Guido Van Rossum.
+    it was first released on 20th feb, 1991
+    python is general purpose programming language
+
+basic syntax and datatypes:
+
+variable 
+    python is case sensitive
+    list - collection of items
+    list are mutable can change update, add, delete the element
+
+    tuple are immutable can't be changed
+
+    dictionary collection of key and value pair
+
+
+    set is helpful for store unique element, it's does not duplicate entries.
+    set is unorder collection of unique element
+
+Operators and Expressions
