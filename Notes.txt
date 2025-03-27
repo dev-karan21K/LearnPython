@@ -20,3 +20,19 @@ variable
     set is unorder collection of unique element
 
 Operators and Expressions
+
+input funtion: is an in-built funtion in python. input funtion displays a prompt to the user, wait for their input, and then returns that input as a string.
+               
+string method: are built-in functions that allow you to manipulate your string
+
+string format: is a way to insert dynamic values into a string.
+
+collection datatypes:
+
+set:
+
+union : union of two sets combines all the unique elements from both the sets
+
+intersection : intersection of two sets contains only the elements that are common to both sets
+
+difference : difference of two sets contains the elements that are in the first set but not in the second set
