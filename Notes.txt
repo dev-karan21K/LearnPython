@@ -36,3 +36,15 @@ union : union of two sets combines all the unique elements from both the sets
 intersection : intersection of two sets contains only the elements that are common to both sets
 
 difference : difference of two sets contains the elements that are in the first set but not in the second set
+
+
+conditions and loops:
+
+if elif else: conditional statements are used to make decisions in your program.
+
+loop : loops are a way to repeat a block of code multiple times.
+
+while loop : while loop executes the code as long as a condition is true / met
+
+nested for loop: nested for loop is like loop inside another loop.
+
