@@ -48,3 +48,18 @@ while loop : while loop executes the code as long as a condition is true / met
 
 nested for loop: nested for loop is like loop inside another loop.
 
+functions:
+functions let you write your code in such a way that it is organized, Reusable and easy to debug.
+debugging is the process of finding errors in your code.
+
+lambda function: lambda dunction is a tiny / one line function, it doesn't need a name, That's why we call it anonymous function.
+
+map functions : map function applies a given function to each item of an iterable.
+
+file handling:
+
+create a file, read a file, write into a file, etc. type of operations are called file handling.
+
+write mode: write mode is used to write something into the existing file.
+
+with file statement: with is a context manager, it manages the resources effectively
