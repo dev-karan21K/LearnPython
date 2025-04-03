@@ -62,4 +62,15 @@ create a file, read a file, write into a file, etc. type of operations are calle
 
 write mode: write mode is used to write something into the existing file.
 
-with file statement: with is a context manager, it manages the resources effectively
+with file statement: with is a context manager, it manages the resources effectively 
+
+module:
+module is just a file that contains python code. it help us organize our code into smaller and manageable parts.
+instead of writing everything in one huge script, we can break our code into multiple files and reuse them whenever we needed.
+
+package:
+package is just a folder that contains multiple modules along with a special file called __init__.py 
+
+built-in module:
+mathematical module(Math):
+math module is used to get the square root of a number, default value of pi and so many other functions are included in this module.
